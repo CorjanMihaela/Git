@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+"Linie pe main" 
+
+
+"Fix pentru server" 
